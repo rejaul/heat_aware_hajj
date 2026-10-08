@@ -1,7 +1,7 @@
 # heat_aware_hajj
 
 Code for *Equitable Heat-Aware Crowd Routing for the Hajj: OpenStreetMap
-Validation and Hard-Capacity Assignment* (SusTAIN 2026).
+Validation and Hard-Capacity Assignment* (SusTAIN 2026) authored by Rejaul Karim (Independent researcher, USA) and Adam Zuber (NIST, USA).
 
 The paper set out to reduce pilgrims' heat exposure by routing them along
 cooler, less congested paths. Building that system produced two results, and
